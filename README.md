@@ -20,3 +20,6 @@ pandas: For data manipulation and preprocessing.
 NumPy: For numerical computations.
 scikit-learn: For building and evaluating the regression model.
 matplotlib & seaborn: For data visualization.
+
+
+Dataset:- https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
